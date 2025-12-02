@@ -1,0 +1,59 @@
+Timestamp,Age,Gender,SECTION 1 – Meal Information : Meal Frequency (per day),SECTION 2 –   Type of food you usually eat,Food preference/style,"SECTION 3 – Hydration : Water Intake ( litres /day)
+",SECTION 4 – Sleep  : Sleep Duration (hours),Stress Level (0–10),SECTION 5 – Physical Activity Level,Activity Intensity Score (0–10),Wake-up Time,Go to sleep,Sleep Pattern Regularity
+11/19/2025 11:53:05,21,Male,3 meals per day,Non-Vegetarian,"Spicy, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,5,Active,10,7:30:00 AM,12:00:00 AM,Usually regular
+11/19/2025 11:56:14,20,Male,3 meals per day,Vegetarian,"Spicy, Fried, Junk Food, Home cooked",1.5  -  2 L,6 - 8 hours,7,Moderate,7,6:00:00 AM,10:30:00 AM,Usually regular
+11/19/2025 12:00:44,20,Female,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, Junk Food, Home cooked",1 -  1.5 L,6 - 8 hours,6,Moderate,5,6:30:00 AM,11:00:00 PM,Usually regular
+11/19/2025 12:01:50,70,Male,2 meals per day,Non-Vegetarian,Spicy,More than 3 L,Less than 5 hours,10,Sedentary,1,10:00:00 AM,12:00:00 AM,Irregular
+11/19/2025 12:04:38,19,Male,3 meals per day,Mixed Diet,"Spicy, High-Fiber, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,7,Active,7,6:00:00 AM,12:00:00 PM,Irregular
+11/19/2025 12:04:44,21,Male,3 meals per day,Vegetarian,"Spicy, Oily, Fried, High-Fiber, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,7,Active,10,6:00:00 AM,10:00:00 PM,Usually regular
+11/19/2025 12:06:26,22,Female,3 meals per day,Mixed Diet,"Spicy, Oily, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,7,Moderate,8,6:20:00 AM,12:00:00 PM,Usually regular
+11/19/2025 12:08:00,21,Male,2 meals per day,Mixed Diet,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,3,Moderate,6,9:00:00 AM,9:00:00 AM,Very regular
+11/19/2025 12:08:28,20,Male,2 meals per day,Mixed Diet,"Spicy, Fried, Junk Food, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,1,Active,8,6:00:00 AM,10:30:00 AM,Very regular
+11/19/2025 12:19:17,20,Male,3 meals per day,Mixed Diet,"Spicy, Fried, Junk Food, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,10,Sedentary,2,8:00:00 AM,1:00:00 AM,Highly irregular
+11/19/2025 12:19:37,20,Female,3 meals per day,Mixed Diet,"Spicy, Fried, High-Fiber, Home cooked, Balanced/Healthy",1 -  1.5 L,5 - 6 hours,9,Moderate,7,7:00:00 AM,11:00:00 PM,Highly irregular
+11/19/2025 12:33:28,21,Male,3 meals per day,Mixed Diet,"High-Fiber, Home cooked, Balanced/Healthy",More than 3 L,6 - 8 hours,5,Active,10,6:08:00 AM,11:00:00 PM,Usually regular
+11/19/2025 12:36:41,20,Male,3 meals per day,Mixed Diet,"Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,6,Active,8,7:00:00 AM,10:30:00 PM,Usually regular
+11/19/2025 12:39:24,21,Male,2 meals per day,Vegetarian,"Spicy, High-Fiber, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,4,Moderate,8,8:00:00 AM,1:00:00 AM,Usually regular
+11/19/2025 12:43:19,29,Male,3 meals per day,Mixed Diet,Balanced/Healthy,More than 3 L,5 - 6 hours,5,Moderate,5,8:00:00 AM,12:00:00 PM,Irregular
+11/19/2025 12:58:08,21,Male,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, Home cooked, Balanced/Healthy",1 -  1.5 L,6 - 8 hours,8,Sedentary,1,9:00:00 AM,12:00:00 AM,Usually regular
+11/19/2025 13:15:27,25,Male,2 meals per day,Non-Vegetarian,Home cooked,2 -  3 L,6 - 8 hours,5,Active,5,7:30:00 AM,10:30:00 PM,Very regular
+11/19/2025 13:15:59,22,Male,3 meals per day,Non-Vegetarian,"Spicy, High-Fiber, Balanced/Healthy",More than 3 L,6 - 8 hours,7,Active,10,9:00:00 AM,1:00:00 AM,Usually regular
+11/19/2025 13:49:13,20,Male,3 meals per day,Non-Vegetarian,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",2 -  3 L,Less than 5 hours,1,Moderate,10,6:00:00 AM,2:00:00 AM,Irregular
+11/19/2025 13:49:43,20,Male,3 meals per day,Mixed Diet,"Spicy, Oily",1 -  1.5 L,More than 8 hours,7,Sedentary,5,11:00:00 AM,1:00:00 AM,Irregular
+11/19/2025 13:50:29,21,Male,3 meals per day,Mixed Diet,"Spicy, Fried, Home cooked, Balanced/Healthy",1 -  1.5 L,6 - 8 hours,3,Moderate,10,8:30:00 AM,12:00:00 PM,Usually regular
+11/19/2025 13:50:37,22,Male,2 meals per day,Mixed Diet,"Spicy, Fried, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,6,Active,8,7:00:00 AM,11:00:00 AM,Usually regular
+11/19/2025 13:56:24,21,Male,3 meals per day,Mixed Diet,"Spicy, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,8,Moderate,9,7:00:00 AM,11:00:00 PM,Usually regular
+11/19/2025 13:57:53,20,Male,3 meals per day,Mixed Diet,"Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,5,Moderate,5,5:00:00 AM,10:00:00 PM,Irregular
+11/19/2025 13:58:23,20,Male,2 meals per day,Mixed Diet,"Spicy, Oily, Fried, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,4,Moderate,5,8:30:00 AM,12:00:00 AM,Very regular
+11/19/2025 13:58:29,21,Male,3 meals per day,Mixed Diet,"Spicy, Junk Food, Home cooked, Balanced/Healthy",2 -  3 L,More than 8 hours,6,Active,8,11:30:00 AM,10:00:00 AM,Irregular
+11/19/2025 14:00:10,20,Female,3 meals per day,Mixed Diet,"Spicy, Fried, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,8,Active,7,6:30:00 AM,11:30:00 PM,Very regular
+11/19/2025 14:01:06,22,Male,3 meals per day,Non-Vegetarian,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",1 -  1.5 L,6 - 8 hours,6,Sedentary,3,9:00:00 AM,12:00:00 PM,Usually regular
+11/19/2025 14:04:30,20,Male,3 meals per day,Mixed Diet,"Spicy, High-Fiber, Home cooked, Balanced/Healthy",More than 3 L,6 - 8 hours,3,Active,5,8:00:00 AM,11:00:00 PM,Very regular
+11/19/2025 14:16:22,45,Male,2 meals per day,Vegetarian,"Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,6,Active,10,9:00:00 AM,12:00:00 AM,Irregular
+11/19/2025 14:18:57,60,Male,3 meals per day,Vegetarian,"Spicy, Fried, High-Fiber, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,5,Sedentary,4,6:00:00 AM,10:30:00 PM,Usually regular
+11/19/2025 14:20:45,20,Female,3 meals per day,Mixed Diet,"Junk Food, Home cooked, Balanced/Healthy",1.5  -  2 L,More than 8 hours,9,Moderate,8,8:00:00 AM,11:00:00 AM,Very regular
+11/19/2025 14:27:40,21,Male,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",2 -  3 L,5 - 6 hours,9,Sedentary,2,5:00:00 AM,12:00:00 PM,Very regular
+11/19/2025 14:37:49,20,Male,2 meals per day,Mixed Diet,"Spicy, High-Fiber, Home cooked, Balanced/Healthy",1.5  -  2 L,5 - 6 hours,2,Active,10,7:00:00 AM,11:00:00 PM,Usually regular
+11/19/2025 14:52:47,21,Male,3 meals per day,Vegetarian,Home cooked,2 -  3 L,6 - 8 hours,5,Active,8,5:30:00 AM,10:20:00 AM,Very regular
+11/19/2025 14:59:49,21,Male,2 meals per day,Mixed Diet,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",1.5  -  2 L,5 - 6 hours,7,Sedentary,3,10:00:00 AM,3:00:00 AM,Very regular
+11/19/2025 16:39:10,20,Male,3 meals per day,Non-Vegetarian,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",1.5  -  2 L,Less than 5 hours,1,Active,7,6:00:00 AM,2:00:00 AM,Very regular
+11/19/2025 17:18:35,20,Male,2 meals per day,Mixed Diet,"Spicy, Fried, Junk Food, Home cooked, Balanced/Healthy",2 -  3 L,Less than 5 hours,5,Moderate,8,7:00:00 AM,1:00:00 AM,Usually regular
+11/19/2025 18:04:26,21,Male,3 meals per day,Vegetarian,"Spicy, Home cooked, Balanced/Healthy",2 -  3 L,5 - 6 hours,7,Moderate,7,5:00:00 AM,11:00:00 AM,Usually regular
+11/19/2025 18:43:49,21,Male,2 meals per day,Vegetarian,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,10,Sedentary,1,11:00:00 AM,2:00:00 AM,Highly irregular
+11/19/2025 19:27:42,38,Male,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",1 -  1.5 L,6 - 8 hours,6,Moderate,7,10:00:00 AM,12:00:00 PM,Usually regular
+11/19/2025 21:29:30,21,Male,3 meals per day,Vegetarian,"Spicy, Fried, High-Fiber",1.5  -  2 L,5 - 6 hours,3,Moderate,3,6:30:00 AM,11:30:00 AM,Usually regular
+11/19/2025 22:31:50,19,Male,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",More than 3 L,6 - 8 hours,5,Moderate,5,9:00:00 AM,10:00:00 AM,Usually regular
+11/20/2025 10:16:34,20,Female,2 meals per day,Mixed Diet,"Spicy, Home cooked",1.5  -  2 L,5 - 6 hours,5,Sedentary,1,7:30:00 AM,12:00:00 AM,Irregular
+11/22/2025 2:17:16,19,Female,3 meals per day,Vegetarian,"Spicy, Oily, Fried, Junk Food, Home cooked",1 -  1.5 L,6 - 8 hours,7,Active,6,7:00:00 AM,11:00:00 AM,Usually regular
+11/23/2025 12:27:57,20,Female,3 meals per day,Mixed Diet,"Spicy, Home cooked, Balanced/Healthy",2 -  3 L,5 - 6 hours,9,Sedentary,5,6:00:00 AM,11:30:00 AM,Irregular
+11/23/2025 12:33:35,21,Female,2 meals per day,Mixed Diet,Spicy,2 -  3 L,6 - 8 hours,8,Moderate,5,5:30:00 AM,11:00:00 PM,Irregular
+11/23/2025 12:47:16,20,Female,2 meals per day,Mixed Diet,"Spicy, High-Fiber, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,1,Moderate,4,7:00:00 AM,12:00:00 PM,Usually regular
+11/23/2025 13:30:42,20,Female,3 meals per day,Vegetarian,"Spicy, Oily, Fried, High-Fiber, Junk Food, Home cooked, Balanced/Healthy",1.5  -  2 L,More than 8 hours,7,Moderate,3,1:00:00 AM,4:00:00 AM,Highly irregular
+11/23/2025 13:35:38,20,Male,3 meals per day,Mixed Diet,"Spicy, Fried, High-Fiber, Balanced/Healthy",2 -  3 L,6 - 8 hours,10,Moderate,10,10:00:00 AM,11:00:00 AM,Usually regular
+11/23/2025 14:00:24,20,Male,3 meals per day,Vegetarian,"Spicy, Fried, High-Fiber, Home cooked, Balanced/Healthy",2 -  3 L,More than 8 hours,5,Sedentary,2,9:00:00 AM,11:00:00 AM,Irregular
+11/25/2025 14:20:00,40,Male,3 meals per day,Non-Vegetarian,"Spicy, Oily, Junk Food, Home cooked",1.5  -  2 L,6 - 8 hours,8,Sedentary,4,6:30:00 AM,10:30:00 AM,Usually regular
+11/25/2025 14:21:09,50,Female,2 meals per day,Mixed Diet,"Spicy, Oily, High-Fiber, Home cooked, Balanced/Healthy",2 -  3 L,6 - 8 hours,9,Moderate,6,5:30:00 AM,10:30:00 AM,Usually regular
+11/25/2025 14:22:49,32,Male,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, Junk Food, Home cooked",2 -  3 L,5 - 6 hours,9,Active,9,8:00:00 AM,1:00:00 AM,Irregular
+11/25/2025 14:23:49,30,Male,3 meals per day,Mixed Diet,"Spicy, Oily, Fried, High-Fiber, Home cooked, Balanced/Healthy",2 -  3 L,5 - 6 hours,8,Moderate,8,6:00:00 AM,11:00:00 PM,Irregular
+11/25/2025 14:23:55,64,Female,3 meals per day,Vegetarian,"High-Fiber, Home cooked, Balanced/Healthy",1.5  -  2 L,6 - 8 hours,5,Sedentary,2,6:00:00 AM,12:00:00 PM,Usually regular
+11/25/2025 14:25:13,54,Male,3 meals per day,Mixed Diet,"Spicy, Oily, High-Fiber, Junk Food, Home cooked",2 -  3 L,5 - 6 hours,8,Moderate,5,7:30:00 AM,11:30:00 AM,Usually regular
